@@ -1,9 +1,11 @@
-function App() {
-  return (
-    <div className="App">
-     <h1>Hello rockeseat</h1>
-    </div>
-  );
-}
+import React,{Component} from 'react';
+import Header from './components/Header';
+import './styles.css';
+const App = () =>(
+  <div className="App">
+    <Header />
+  </div>
+)
+
 
 export default App;
