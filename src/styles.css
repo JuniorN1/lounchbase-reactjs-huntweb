@@ -8,5 +8,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
   background:#DDD;
+/* background: linear-gradient(to bottom, #d2d1d1 0%, #545454 100%); */
     color:#333;
 }
